@@ -1,1 +1,4 @@
 openai
+os
+subprocess
+tempfile
