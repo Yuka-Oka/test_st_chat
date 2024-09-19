@@ -81,7 +81,7 @@ def response_generation(self_user_prompt, pf):
 # 入力格納用リスト
 lis = []
 
-openai.api_key = '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'
+openai.api_key = 'sk-'
 
 # "openai_model"作成
 if "openai_model" not in st.session_state:
